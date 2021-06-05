@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/dennis/ROS/simulation_ws/devel/include/**",
+        "/home/dennis/ROS/ROS_CAR/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/a_star/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/fastslam_localization/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/navigation_sim/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/ros_acml/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/ros_final/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/ros_report/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/turtle_square/include/**",
+        "/home/dennis/ROS/simulation_ws/src/barista/turtlebot_apps/turtlebot_actions/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_geometry/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_msgs/tuw_geometry_msgs/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_rviz/tuw_geometry_rviz/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_multi_robot/tuw_multi_robot_ctrl/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_multi_robot/tuw_multi_robot_goal_generator/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_multi_robot/tuw_multi_robot_local_behavior_controller/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_multi_robot/tuw_multi_robot_router/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_multi_robot/tuw_multi_robot_rviz/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_msgs/tuw_nav_msgs/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_rviz/tuw_nav_rviz/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_rviz/tuw_object_rviz/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_msgs/tuw_vehicle_msgs/include/**",
+        "/home/dennis/ROS/ROS_CAR/src/tuw_multi_robot/tuw_multi_robot/tuw_voronoi_graph/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
